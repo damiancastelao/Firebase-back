@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859266013488",
+    "firebase_url": "https://leafy-winter-331508-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "leafy-winter-331508",
+    "storage_bucket": "leafy-winter-331508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859266013488:android:4dcfece466d48c273290f5",
+        "android_client_info": {
+          "package_name": "com.dam2.mapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859266013488-8lc1k4darqbe0m1mp89kt8qi9blkrhv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam2.mapas",
+            "certificate_hash": "d896e61da9e2a1f0f50c1252e5a466135de97a29"
+          }
+        },
+        {
+          "client_id": "859266013488-39l45t4msovjejgg51gl9v610l462tib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhAYZ-8mfpTdyEG6bTVlzAX4JtD_LV50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859266013488-39l45t4msovjejgg51gl9v610l462tib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
